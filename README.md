@@ -33,3 +33,17 @@ Lasso and Ridge were neck and neck throughout the different array of alphas that
 
 
 ### Deployment
+#### Best Used Cars to Deliver
+When looking at the findings from the analysis that we have done in making sure that you get the best sales possible it really isn't just about having the least amount of miles and the newest cars but you also have the take into account the type of cars and manufacturers as well.
+
+**Best Inventory Combinations**
+1. Ram diesel pickup truck
+2. Ram pickups
+3. Any type of diesel trucks
+4. Any type of trucks
+5. Always shoot with something with low mileage and a new year
+
+**Things to stay away from**
+1. High mileaged older vehicles
+2. Sedan modeled cars
+3. Honda
