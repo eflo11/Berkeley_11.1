@@ -27,3 +27,9 @@ Lastly was to implement encoding into the fields that were alpha-numeric.
 ### Modeling
 After the data was prepared and ready I went through and ran multiple types of regressions both on different subsets but also regression algorithms such as LinReg, Lasso, and Ridge.
 
+During my testing although I wasn't able to get the MSE down to what I would expect a good model to be able to get down to, the best was a normal LinReg model that utilized K-Fold to split the data in 10 splits.
+
+Lasso and Ridge were neck and neck throughout the different array of alphas that I utilized but still couldn't out perform the LinReg model.
+
+
+### Deployment
